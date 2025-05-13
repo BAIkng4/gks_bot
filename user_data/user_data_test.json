@@ -5,5 +5,5 @@
 	"userid": 1234567890,
 	"balance": 0,
 	"code": "abc12",
-	"purchased_product_id": [],
+	"purchased_product_id": []
 }
