@@ -1,9 +1,11 @@
 {
-	"_id": "GKS1234567890",
-	"growid": "data_test",
-	"username": "data_test",
-	"userid": 1234567890,
-	"balance": 0,
-	"code": "abc12",
-	"purchased_product_id": [],
+	"_id": "GKS_STOCK1234567890",
+	"product_category": "data_test",
+	"product_name": "data_test",
+	"product_code": "data_test", 
+	"quantity": 0, 
+	"price": 0, 
+	"discount": 0,
+	"discount_start_period": "2025-01-01 00:00:00",
+	"discount_end_period": "2025-01-01 00:00:00"
 }
