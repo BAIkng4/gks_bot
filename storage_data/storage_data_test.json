@@ -1,8 +1,8 @@
 {
 	"_id": "GKS_STOCK1234567890",
-	"product_category": "data_test",
-	"product_name": "data_test",
-	"product_code": "data_test", 
+	"product_category": "storage_data_test",
+	"product_name": "storage_data_test",
+	"product_code": "storage_data_test", 
 	"quantity": 0, 
 	"price": 0, 
 	"discount": 0,
