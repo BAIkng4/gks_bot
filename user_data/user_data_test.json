@@ -1,9 +1,9 @@
 {
 	"_id": "GKS1234567890",
-	"growid": "user_data_test",
 	"username": "user_data_test",
-	"userid": 1234567890,
+	"discord_name": "user_data_test",
+	"discord_userid": 1234567890,
 	"balance": 0,
-	"code": "abc12",
-	"purchased_product_id": []
+	"login_code": "abc12",
+	"purchased_product_code": []
 }
